@@ -14,6 +14,14 @@
     "nodemon": "^1.18.3",
     "prettier": "^2.6.1"
   },
+  "prettierConfig": {
+    "printWidth": 71,
+    "tabWidth": 4,
+    "singleQuote": true,
+    "trailingComma": true,
+    "bracketSpacing": false,
+    "parser": "flow"
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
